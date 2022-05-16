@@ -5,11 +5,12 @@ instruction:
   1. install python 3.9+
   2. install all requirements
   3. create file with name: .env
-  4. put in a file api_id, api_hash, emojis
+  4. put in a file api_id, api_hash (https://core.telegram.org/api/obtaining_api_id), emojis
+    
     example:
       api_id   = "323232"
       api_hash = "gfdgfdge423rfedeh53gdfgdf"
-      emojis = "❤️🔥👍🤮💩🤬😱"
+      emojis   = "❤️🔥👍🤮💩🤬😱"
   5. run ![image](https://user-images.githubusercontent.com/45666540/168626418-f31101c4-0a85-4ab1-909c-eed0eb9d0827.png) 
    
     enter the number of recent messages to which the reaction will be placed
